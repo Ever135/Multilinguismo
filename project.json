@@ -1,0 +1,63 @@
+{
+  "title": "Multilinguismo",
+  "author": "Ever Wilson Bautista Huahuasoncco (Autor)",
+  "school": "EESPPA",
+  "date": "23/06/24",
+  "langCodes": [
+    "es"
+  ],
+  "languages": {
+    "es": "español"
+  },
+  "areaCodes": [
+    "lleng"
+  ],
+  "areas": {
+    "es": "Lenguas"
+  },
+  "levelCodes": [
+    "SEC"
+  ],
+  "levels": {
+    "es": "Secundaria (12-16)"
+  },
+  "description": {
+    "es": "Multilinguismo"
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "multilinguismo_E.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 8,
+  "mediaFiles": 17,
+  "totalSize": 898472,
+  "files": [
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "multilimnguismoconsecuencias.png",
+    "multilimnguismodef.png",
+    "multilimnguismointro.png",
+    "multilimnguismoinvasiones.png",
+    "multilimnguismoinvasionessinfo.png",
+    "multilimnguismolasinvasionestitule.png",
+    "multilimnguismomigraciones.png",
+    "multilimnguismomigracionesinfo.png",
+    "multilimnguismomigracionestitule.png",
+    "multilimnguismopluricultura.png",
+    "multilimnguismopluriculturainfo.png",
+    "multilimnguismopluriculturatitule.png",
+    "multilinguismo_E.jclic",
+    "multilinguismo_E.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}
